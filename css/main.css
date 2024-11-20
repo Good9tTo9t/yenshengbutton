@@ -16,7 +16,7 @@ html {
   font-size: 1em;
   line-height: 1.4;
   background: #222222;
-  background-image: url('/bgi.png');
+  background-image: url('/imgs/bgi.png');
   background-repeat: no-repeat;
   background-attachment: fixed;  
   background-size: cover;
