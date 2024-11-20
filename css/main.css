@@ -16,6 +16,10 @@ html {
   font-size: 1em;
   line-height: 1.4;
   background: #222222;
+  background-image: url('/bgi.png');
+  background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: cover;
 }
 
 /*
@@ -299,3 +303,6 @@ h1{
   font-family: 'Noto Sans TC', sans-serif;
 }
 
+#buttons{
+  background-color: rgba(255, 255, 255, 0.4);
+}
